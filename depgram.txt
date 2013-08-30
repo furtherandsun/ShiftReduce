@@ -1,0 +1,9 @@
+ROOT:var:RA:pred
+ROOT:åt:RA:pred
+Jag:var:LA:subj
+Jag:åt:LA:subj
+var:på:RA:compl
+åt:lunch:RA:dobj
+på:mötet:RA:rect
+mötet:igår:RA:attr
+var:igår:RA:advl

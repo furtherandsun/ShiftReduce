@@ -1,0 +1,15 @@
+// I saw her duck
+
+S --> NPnom VP
+NPobj --> poss n
+NPobj --> det n
+VP --> vtr NPobj 
+VP --> vtr NPobj vInf
+NPnom => I
+NPobj => her
+poss => her
+vtr => saw
+vInf => duck
+det => the
+n => duck 
+n => saw
